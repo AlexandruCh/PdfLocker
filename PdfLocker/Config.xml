@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Meridian>
+  <RootFolderName>DOSARE</RootFolderName>
+
+  <!-- Acest tag seteaza locatia logger-ului pt procesarea de pdf-uri (disable print button/inject metadate) -->
+  <PdfLogger>C:\temp\PdfLock.log</PdfLogger>
+  
+</Meridian>
